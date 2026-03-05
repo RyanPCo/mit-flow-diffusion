@@ -1,0 +1,1 @@
+Self study of MIT 6.S184: Generative AI with Stochastic Differential Equations (Flow Matching and Diffusion Models)
